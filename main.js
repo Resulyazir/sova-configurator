@@ -1,0 +1,1 @@
+// JavaScript logica voor de configurator
